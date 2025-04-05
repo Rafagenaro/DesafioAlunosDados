@@ -5,5 +5,3 @@ Este projeto foi desenvolvido após eu aprender Pandas no curso da **Alura**. Aq
 ## 📌 Introdução
 
 Ao longo deste desafio, aprofundei meu entendimento sobre `Pandas`, uma biblioteca essencial para quem trabalha com Python no mundo da ciência de dados.
-
-🙏 Obrigado por visitar! Qualquer feedback ou contribuição é muito bem-vindo. Juntos, podemos tornar este repositório ainda melhor para a comunidade!
